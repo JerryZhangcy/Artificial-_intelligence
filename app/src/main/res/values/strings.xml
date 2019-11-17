@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Artificialintelligence</string>
+    <string name="req_no_permission_tip">请去设置界面开启应用需要的权限后再试！</string>
+    <string name="permission_dialog_title">申请必备权限！</string>
+    <string name="permission_dialog_msg">请开启应用需要的权限，否则无法使用此功能</string>
+    <string name="permission_dialog_pos">立即开启</string>
+    <string name="permission_dialog_neg">取消</string>
+</resources>
